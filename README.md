@@ -31,7 +31,7 @@ Then, a Python script on your computer interprets to the serial port and does wh
 
 No soldering. No hot glue. The buttons just fit tightly into cut holes. Jumper wires can stay on well enough without glue, but you can add some if you want it more solid.
 Heres how it looks:
-<img src="imgages/final_look.jpeg" width="400"/>
+<img src="img/final_look.jpeg" width="400"/>
 
 ---
 
