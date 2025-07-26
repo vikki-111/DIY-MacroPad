@@ -4,6 +4,8 @@
 
 This guide explains how to wire the buttons and potentiometers to your Arduino. It’s simple, and doesn’t require soldering.
 
+---
+
 ### General Notes
 
 * All buttons use `INPUT_PULLUP`, so no resistors are needed.
@@ -43,6 +45,7 @@ GND ----[Button]---- D3
 
 ---
 
-### 🖼️ Diagram
+### TinkerCad Diagram
+<img width="1460" height="798" alt="image" src="https://github.com/user-attachments/assets/ace8c633-fc11-4bc6-8eb8-aadc60414627" />
 
 ---
