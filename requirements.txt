@@ -1,0 +1,5 @@
+pyserial 
+psutil 
+pycaw 
+comtypes 
+pywin32
