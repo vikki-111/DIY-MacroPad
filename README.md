@@ -1,6 +1,6 @@
 ---
 
-#  DIY Macropad with Potentiometers
+#  DIY Macropad and Volume Control
 
 Hey!
 This is a little project I made using some extra parts I had from my TEP class in college. It’s a simple macropad with mechanical switches and potentiometers that you can fully control via Python.
