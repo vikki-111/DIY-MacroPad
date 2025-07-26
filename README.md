@@ -31,7 +31,8 @@ Then, a Python script on your computer interprets to the serial port and does wh
 
 No soldering. No hot glue. The buttons just fit tightly into cut holes. Jumper wires can stay on well enough without glue, but you can add some if you want it more solid.
 Heres how it looks:
-![Final build](./img/macropad-final.png)
+![Final build](./img/final_look.png)
+
 ---
 
 ## 🛠️ Software Requirements
