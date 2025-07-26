@@ -99,6 +99,7 @@ You can bind these to:
    ```bash
    pip install -r requirements.txt
    ```
+4. Run macropad.py in a python IDE or even in terminal
    
 ### Also checkout the wiring_guide for the connections they are really simple.
 ---
